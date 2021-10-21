@@ -1939,6 +1939,10 @@
     <Content Include="Views\Home\AboutUs.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Category\List.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Shared\_LayoutWithoutTopbar.cshtml" />
+    <Content Include="Views\Shared\_NestedLayout.cshtml" />
+    <Content Include="Views\Shared\_GenerateReportPartialView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
